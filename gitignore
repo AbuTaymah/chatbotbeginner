@@ -1,0 +1,22 @@
+# created by virtualenv automatically
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
